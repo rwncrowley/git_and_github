@@ -1,2 +1,2 @@
-# git_and_github
+# gitandgithub
 Week 2 assignment 176
